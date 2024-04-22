@@ -7,11 +7,8 @@ Welcome to my learning journey with the STM32F3 Discovery board! This repository
 - Basic Projects: Easy projects that help me understand how to control the board's features.
 - Learning Notes: Notes and explanations about what I've learned and how things work.
 - Useful Links: Links to tutorials, forums, and additional resources that I find useful.
-- Goals:
+- Goals: Learn the basics of programming embedded systems in C. Explore how to use different features of the STM32F3 Discovery board. Share my learning process to help others who are just starting.
 
-Learn the basics of programming embedded systems in C.
-Explore how to use different features of the STM32F3 Discovery board.
-Share my learning process to help others who are just starting.
 Feel free to explore, use, or contribute to this repository. Let's learn together!
 
 Happy exploring and learning!
